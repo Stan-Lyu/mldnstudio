@@ -21,7 +21,7 @@
 		<jsp.version>2.2</jsp.version>
 		<jstl.version>1.2</jstl.version>
 		<annotations-api.version>9.0.8</annotations-api.version>
-		<quartz.version>2.3.0</quartz.version>
+		<quartz.version>2.3.2</quartz.version>
 		<activemq.version>5.15.4</activemq.version>
 		<jms.version>1.1</jms.version>
 		<cxf.version>3.2.4</cxf.version>
