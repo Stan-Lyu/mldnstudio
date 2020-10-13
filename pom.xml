@@ -15,7 +15,7 @@
 		<jdk.version>1.8</jdk.version>
 		<maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
 		<!-- 以下为依赖包版本定义属性 -->
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<spring.version>5.0.6.RELEASE</spring.version>
 		<servlet.version>4.0.1</servlet.version>
 		<jsp.version>2.2</jsp.version>
